@@ -1,4 +1,4 @@
-# agenda
+# Agenda de Contatos
 Aplicação de Agenda desenvolvido para a matéria 4POA
 
 ## Projeto desenvolvido por
